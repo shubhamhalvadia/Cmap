@@ -1,0 +1,98 @@
+<resources>
+
+
+    <string name="spinner_title">spinner_title</string>
+    <string name="app_name">Cmaps</string>
+    <string name="select_your_source_as_building_canteen_atm_or_startionary">SELECT YOUR SOURCE AS BUILDING,CANTEEN,ATM OR STARTIONARY</string>
+    <string name="select_your_destination_as_building_canteen_atm_or_startionary">SELECT YOUR DESTINATION AS BUILDING,CANTEEN,ATM OR STARTIONARY</string>
+    <string name="get_route">GET ROUTE</string>
+    <string-array name="locations">
+        <item>MY LOCATION</item>
+        <item>CSPIT - CE,CSE,IT,EE</item>
+        <item>CSPIT - ME</item>
+        <item>I2IM</item>
+        <item>DEPSTAR</item>
+        <item>PDPIAS</item>
+        <item>RPCP</item>
+        <item>ADMIN</item>
+        <item>CMPICA</item>
+        <item>ICEBERG</item>
+        <item>KRISHNA</item>
+        <item>AXIS ATM</item>
+        <item>SHREEJI</item>
+        <item>SWEETSPOT</item>
+        <item>STATIONARY,XEROX</item>
+        <item>LIBRARY</item>
+        <item>GIRLS HOSTEL-1</item>
+        <item>GIRLS HOSTEL-2</item>
+        <item>GIRLS HOSTEL-3</item>
+        <item>GIRLS HOSTEL-4</item>
+        <item>SHREEDEEP HOSTEL</item>
+        <item>ROYAL CARE</item>
+        <item>OM HOSTEL</item>
+        <item>AASHIRVAD HOSTEL</item>
+        <item>NAISARG HOSTEL</item>
+        <item>SAHJANAND HOSTEL</item>
+        <item>CHARUSAT HOSPITAL</item>
+    </string-array>
+    <string-array name="latitudes">
+        <item>MY LOCATION</item>
+        <item>22.6003229</item>
+        <item>22.5994395</item>
+        <item>22.5998896</item>
+        <item>22.6006371</item>
+        <item>22.6015805</item>
+        <item>22.5995048</item>
+        <item>22.5994327</item>
+        <item>22.6033844</item>
+        <item>22.6015972</item>
+        <item>22.6016879</item>
+        <item>22.6015632</item>
+        <item>22.5988731</item>
+        <item>22.6010853</item>
+        <item>22.6014920</item>
+        <item>22.5999425</item>
+        <item>22.6012462</item>
+        <item>22.6019092</item>
+        <item>22.6017594</item>
+        <item>22.6007194</item>
+        <item>22.6065270</item>
+        <item>22.5975743</item>
+        <item>22.6008414</item>
+        <item>22.5953948</item>
+        <item>22.5983856</item>
+        <item>22.5979525</item>
+        <item>22.6026261</item>
+    </string-array>
+    <string-array name="longitudes">
+        <item>MY LOCATION</item>
+        <item>72.8195450</item>
+        <item>72.8179927</item>
+        <item>72.8206923</item>
+        <item>72.8201039</item>
+        <item>72.8193613</item>
+        <item>72.8199323</item>
+        <item>72.8203929</item>
+        <item>72.8184765</item>
+        <item>72.8203688</item>
+        <item>72.8203228</item>
+        <item>72.8204543</item>
+        <item>72.8203118</item>
+        <item>72.8206635</item>
+        <item>72.8202166</item>
+        <item>72.8201143</item>
+        <item>72.8190977</item>
+        <item>72.8188222</item>
+        <item>72.8178485</item>
+        <item>72.8181244</item>
+        <item>72.8195645</item>
+        <item>72.8238449</item>
+        <item>72.8263843</item>
+        <item>72.8211942</item>
+        <item>72.8235455</item>
+        <item>72.8237014</item>
+        <item>72.8213646</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+</resources>
